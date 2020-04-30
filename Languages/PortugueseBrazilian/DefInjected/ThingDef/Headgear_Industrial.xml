@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Scarf -->
+
+  <VAE_Headgear_Scarf.label>cachecol</VAE_Headgear_Scarf.label>
+  <VAE_Headgear_Scarf.description>Um pedaço de tecido quente e longo que protege o pescoço da exposição ao frio.</VAE_Headgear_Scarf.description>
+
+
+  <!-- Beret -->
+
+  <VAE_Headgear_Beret.label>boina</VAE_Headgear_Beret.label>
+  <VAE_Headgear_Beret.description>Um chapéu macio e liso. Frequentemente usado pelos militares como s&#237;mbolo de bravura.</VAE_Headgear_Beret.description>
+
+
+  <!-- Hardhat -->
+
+  <VAE_Headgear_Hardhat.label>capacete de segurança</VAE_Headgear_Hardhat.label>
+  <VAE_Headgear_Hardhat.description>Um tipo de capacete usado predominantemente em um ambiente de trabalho. Oferece alta proteção contra trauma contundente.</VAE_Headgear_Hardhat.description>
+
+
+  <!-- Surgical Mask -->
+
+  <VAE_Headgear_SurgicalMask.label>máscara cirúrgica</VAE_Headgear_SurgicalMask.label>
+  <VAE_Headgear_SurgicalMask.description>Máscara higiênica usada pelos cirurgiões, enfermeiros e outros trabalhadores envolvidos no atendimento ao paciente.</VAE_Headgear_SurgicalMask.description>
+
+
+  <!-- Gas Mask -->
+
+  <VAE_Headgear_GasMask.label>máscara de gás</VAE_Headgear_GasMask.label>
+  <VAE_Headgear_GasMask.description>Uma máscara de isolamento facial completa com sistemas básicos de filtragem de ar, proporcionando algum grau de imunidade tóxica.</VAE_Headgear_GasMask.description>
+
+
+  <!-- Baseball Cap -->
+
+  <VAE_Headgear_BaseballCap.label>boné de beisebol</VAE_Headgear_BaseballCap.label>
+  <VAE_Headgear_BaseballCap.description>Um tipo de boné macia com uma copa arredondada e uma aba r&#237;gida que protege a frente.</VAE_Headgear_BaseballCap.description>
+
+
+  <!-- Sunglasses -->
+
+  <VAE_Headgear_Sunglasses.label>óculos de sol</VAE_Headgear_Sunglasses.label>
+  <VAE_Headgear_Sunglasses.description>Um óculos de sol para proteger o usuário dos perigosos raios UV. Geralmente considerado "irado".</VAE_Headgear_Sunglasses.description>
+
+
+  <!-- Glasses -->
+
+  <VAE_Headgear_Glasses.label>óculos de grau</VAE_Headgear_Glasses.label>
+  <VAE_Headgear_Glasses.description>Um óculos de grau, proporcionando aos usuários algum grau de imunidade ps&#237;quica.</VAE_Headgear_Glasses.description>
+
+
+  <!-- Chefs Toque -->
+
+  <VAE_Headgear_ChefsToque.label>chapéu de chef</VAE_Headgear_ChefsToque.label>
+  <VAE_Headgear_ChefsToque.description>Um chapéu alto, redondo e plissado, geralmente usado pelos chefs.</VAE_Headgear_ChefsToque.description>
+
+</LanguageData>

@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Casual T-Shirt -->
+
+  <VAE_Apparel_CasualTShirt.label>camiseta casual</VAE_Apparel_CasualTShirt.label>
+  <VAE_Apparel_CasualTShirt.description>Uma camiseta casual com uma estampa legal.</VAE_Apparel_CasualTShirt.description>
+
+
+  <!-- Hoodie -->
+
+  <VAE_Apparel_Hoodie.label>moletom</VAE_Apparel_Hoodie.label>
+  <VAE_Apparel_Hoodie.description>Um moletom casual quente que não limita o movimento do usuário.</VAE_Apparel_Hoodie.description>
+
+
+  <!-- Shorts -->
+
+  <VAE_Apparel_Shorts.label>calção</VAE_Apparel_Shorts.label>
+  <VAE_Apparel_Shorts.description>Um calção, perfeito para os dias quentes de verão.</VAE_Apparel_Shorts.description>
+
+
+  <!-- Skirt -->
+
+  <VAE_Apparel_Skirt.label>saia</VAE_Apparel_Skirt.label>
+  <VAE_Apparel_Skirt.description>Uma saia curta.</VAE_Apparel_Skirt.description>
+
+
+  <!-- Shirt and Tie -->
+
+  <VAE_Apparel_ShirtandTie.label>camisa e gravata</VAE_Apparel_ShirtandTie.label>
+  <VAE_Apparel_ShirtandTie.description>Uma camisa de botão de boa aparência com colarinho e gravata.</VAE_Apparel_ShirtandTie.description>
+
+
+  <!-- Suit Jacket -->
+
+  <VAE_Apparel_SuitJacket.label>paletó</VAE_Apparel_SuitJacket.label>
+  <VAE_Apparel_SuitJacket.description>Um belo paletó.</VAE_Apparel_SuitJacket.description>
+
+
+  <!-- Trousers -->
+
+  <VAE_Apparel_Trousers.label>calça social</VAE_Apparel_Trousers.label>
+  <VAE_Apparel_Trousers.description>Um belo conjunto de calças social.</VAE_Apparel_Trousers.description>
+
+
+  <!-- Fedora -->
+
+  <VAE_Headgear_Fedora.label>fedora</VAE_Headgear_Fedora.label>
+  <VAE_Headgear_Fedora.description>Um belo chapéu com aba macia e coroa recortada.</VAE_Headgear_Fedora.description>
+
+
+  <!-- Overalls -->
+
+  <VAE_Apparel_Overalls.label>macacão jardineira</VAE_Apparel_Overalls.label>
+  <VAE_Apparel_Overalls.description>Um macacão jardineira perfeitos para trabalhar no campo.</VAE_Apparel_Overalls.description>
+
+
+  <!-- Fleece Shirt -->
+
+  <VAE_Apparel_FleeceShirt.label>camisa de flanela</VAE_Apparel_FleeceShirt.label>
+  <VAE_Apparel_FleeceShirt.description>Uma camisa macia, quadriculada e respirável, perfeita para trabalhar no campo.</VAE_Apparel_FleeceShirt.description>
+
+
+  <!-- Jeans -->
+
+  <VAE_Apparel_Jeans.label>jeans</VAE_Apparel_Jeans.label>
+  <VAE_Apparel_Jeans.description>Um jeans grosso o suficiente para fornecer algum grau de proteção contra danos e frio.</VAE_Apparel_Jeans.description>
+
+
+  <!-- Chefs Uniform -->
+
+  <VAE_Apparel_ChefsUniform.label>uniforme de chef</VAE_Apparel_ChefsUniform.label>
+  <VAE_Apparel_ChefsUniform.description>Uma espessa dólmã de pano protege do calor dos fogões e respingos de l&#237;quidos ferventes.</VAE_Apparel_ChefsUniform.description>
+
+
+  <!-- Military Jacket -->
+
+  <VAE_Apparel_MilitaryJacket.label>jaqueta militar</VAE_Apparel_MilitaryJacket.label>
+  <VAE_Apparel_MilitaryJacket.description>Uma jaqueta militar de tecido grosso usada em eventos cerimônias, recepções e celebrações. Ele contém honras, ins&#237;gnias de medalhas e fitas de campanha. É considerado um s&#237;mbolo de coragem e bravura.</VAE_Apparel_MilitaryJacket.description>
+
+
+  <!-- Military Uniform -->
+
+  <VAE_Apparel_MilitaryUniform.label>uniforme militar</VAE_Apparel_MilitaryUniform.label>
+  <VAE_Apparel_MilitaryUniform.description>Uma farda militar grossa e protetora com uma camuflagem militar.</VAE_Apparel_MilitaryUniform.description>
+
+
+  <!-- Builders Jacket -->
+
+  <VAE_Apparel_BuildersJacket.label>casaco de construtor</VAE_Apparel_BuildersJacket.label>
+  <VAE_Apparel_BuildersJacket.description>Uma jaqueta com propriedades altamente refletivas e uma cor que é facilmente discern&#237;vel em qualquer cenário.\n\nA maioria dos funcionários industriais a usa como parte de seu equipamento de proteção individual.</VAE_Apparel_BuildersJacket.description>
+
+
+  <!-- Doctor Scrubs -->
+
+  <VAE_Apparel_DoctorScrubs.label>jaleco de doutor</VAE_Apparel_DoctorScrubs.label>
+  <VAE_Apparel_DoctorScrubs.description>Vestuário higiênico usada por cirurgiões, enfermeiros e outros trabalhadores envolvidos no atendimento ao paciente. Eles são projetados para serem simples, fáceis de lavar e baratos para substituir se danificados ou manchados.</VAE_Apparel_DoctorScrubs.description>
+
+
+  <!-- Lab Coat -->
+
+  <VAE_Apparel_LabCoat.label>bata de laboratório</VAE_Apparel_LabCoat.label>
+  <VAE_Apparel_LabCoat.description>Bata leve usado para proteger roupas de substâncias usadas em laboratório.</VAE_Apparel_LabCoat.description>
+
+
+  <!-- Tank Top -->
+
+  <VAE_Apparel_TankTop.label>regata</VAE_Apparel_TankTop.label>
+  <VAE_Apparel_TankTop.description>Um tipo de camiseta sem mangas, útil durante exerc&#237;cios prolongados.</VAE_Apparel_TankTop.description>
+
+
+  <!-- Sheriff Shirt -->
+
+  <VAE_Apparel_SheriffShirt.label>camisa de xerife</VAE_Apparel_SheriffShirt.label>
+  <VAE_Apparel_SheriffShirt.description>Uma camisa formal abotoada e grossa com uma estrela de xerife no peito. Proporciona ao usuário um sentimento de orgulho e realização.</VAE_Apparel_SheriffShirt.description>
+
+
+  <!-- Jumpsuit -->
+
+  <VAE_Apparel_Jumpsuit.label>macacão de trabalho</VAE_Apparel_Jumpsuit.label>
+  <VAE_Apparel_Jumpsuit.description>Um macacão de corpo inteiro feito de tecido grosso ou couro. Excelente para proteção geral do corpo e trabalho manual.</VAE_Apparel_Jumpsuit.description>
+
+</LanguageData>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pelt Coat -->
+
+  <VAE_Apparel_PeltCoat.label>casaco de pele</VAE_Apparel_PeltCoat.label>
+  <VAE_Apparel_PeltCoat.description>Casaco pesado isolado devido &#224; pele dos animais, proporcionando calor e armadura.</VAE_Apparel_PeltCoat.description>
+
+
+  <!-- Tribal Poncho -->
+
+  <VAE_Apparel_TribalPoncho.label>poncho tribal</VAE_Apparel_TribalPoncho.label>
+  <VAE_Apparel_TribalPoncho.description>Um poncho criado com ferramentas neol&#237;ticas. Embora pareça primitivo, é eficaz em isolar o usuário.</VAE_Apparel_TribalPoncho.description>
+
+
+  <!-- Tribal Kilt -->
+
+  <VAE_Apparel_TribalKilt.label>kilt tribal</VAE_Apparel_TribalKilt.label>
+  <VAE_Apparel_TribalKilt.description>Um kilt criado usando ferramentas neol&#237;ticas. Embora pareça primitivo, é eficaz em isolar o usuário.</VAE_Apparel_TribalKilt.description>
+
+
+  <!-- Hood -->
+
+  <VAE_Headgear_Hood.label>capuz</VAE_Headgear_Hood.label>
+  <VAE_Headgear_Hood.description>Um capuz grosso feito de tecido ou couro reforçado. Oferece proteção med&#237;ocre contra frio e danos.</VAE_Headgear_Hood.description>
+
+</LanguageData>

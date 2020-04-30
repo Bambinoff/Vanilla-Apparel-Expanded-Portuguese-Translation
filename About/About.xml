@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>Vanilla Apparel Expanded (Tradução Português)</name>
+    <author>Bambino</author>
+    <supportedVersions>
+      <li>1.0</li>
+	  <li>1.1</li>
+    </supportedVersions>
+	<packageId>Bambino.TradVAPPE</packageId>
+	 <modDependencies>
+        <li>
+            <packageId>VanillaExpanded.VAPPE</packageId>
+            <displayName>Vanilla Apparel Expanded</displayName>
+            <steamWorkshopUrl>steam://url/CommunityFilePage/1814987817</steamWorkshopUrl>
+        </li>
+    </modDependencies>
+    <loadAfter>
+        <li>VanillaExpanded.VAPPE</li>
+    </loadAfter>
+    <description>Adiciona uma tradução em português ao mod "Vanilla Apparel Expanded" de Oskar Potocki.
+ Compativel com <b>PortugueseBrazilian (Português Brasileiro)</b> e <b>Portuguese (Português Europeu)</b>
+<b>Atenção</b> Esse mod não inclui o mod original, somente arquivos da tradução em português estão incluidos. 
+ Vanilla Apparel Expanded deve estar listado na lista de mods antes da tradução em português</description>
+</ModMetaData>
